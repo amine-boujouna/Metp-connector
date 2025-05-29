@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 
 class MetaConnector:
     
-      """
+     """
     Connecteur simple pour Facebook Graph API (page Facebook)
     Collecte posts, images et commentaires, puis on  sauvegarde dans MongoDB.
     """
